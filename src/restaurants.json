@@ -19,7 +19,7 @@
 {
     "name": "Tap42",
     "location": "Fort Lauderdadle",
-    "Vibe":"party",
+    "vibe":"party",
     "rating":"4.4",
     "website":"https://tap42.com/fort-lauderdale/"
 },
@@ -35,7 +35,7 @@
 {
     "name":"Beach House",
     "location": "270 North Pompano Beach Blvd, Pompano Beach, Florida 33062",
-    "Vibe":"chill",
+    "vibe":"chill",
     "rating":"4.4",
     "website": "https://beachhousepompano.com/"
 },
@@ -51,7 +51,7 @@
 {
     "name":"The Breakers Palm Beach",
     "location":"1 S County Rd, Palm Beach, FL 33480",
-    "Vibe": "chic",
+    "vibe": "chic",
     "rating": "4.8",
     "website": "https://www.thebreakers.com/dining/sunday-brunch/"
     
