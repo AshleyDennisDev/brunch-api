@@ -1,6 +1,7 @@
-{
+[
+    {
     "name":"Lynoras",
-    "location": "WPB",
+    "location": "207 Clematis Street, West Palm Beach, FL 33401",
     "vibe": "party",
    "rating":"4.3",
     "website":"https://www.lynoras.com/location/lynoras-west-palm-beach/"
@@ -8,9 +9,69 @@
 
 {
     "name":"Salt7",
-    "location": "Delray",
+    "location": "32 SE 2nd Ave, Delray Beach, FL 33444",
     "vibe":"party",
     "rating": "4.1",
     "website":"https://salt7.com/"
 
+},
+
+{
+    "name": "Tap42",
+    "location": "Fort Lauderdadle",
+    "Vibe":"party",
+    "rating":"4.4",
+    "website":"https://tap42.com/fort-lauderdale/"
+},
+
+{
+    "name":"Latitudes",
+    "location": "Delray Sands Resort, 2809 South Ocean Boulevard, Highland Beach, FL 33487",
+    "vibe":"chill",
+    "rating": "4.6",
+    "website":"https://www.latitudesdelray.com/"
+},
+
+{
+    "name":"Beach House",
+    "location": "270 North Pompano Beach Blvd, Pompano Beach, Florida 33062",
+    "Vibe":"chill",
+    "rating":"4.4",
+    "website": "https://beachhousepompano.com/"
+},
+
+{
+    "name":"Boatyard",
+    "location": "1555 SE 17th St, Fort Lauderdale, FL 33316",
+    "vibe":"chill",
+    "rating":"4.5",
+    "website":"https://boatyard.restaurant/"
+},
+
+{
+    "name":"The Breakers Palm Beach",
+    "location":"1 S County Rd, Palm Beach, FL 33480",
+    "Vibe": "chic",
+    "rating": "4.8",
+    "website": "https://www.thebreakers.com/dining/sunday-brunch/"
+    
+},
+
+{
+    "name":"Little Hen",
+    "location": "3451 NE 1st Ave Suite 100/102, Miami, FL 33137",
+    "vibe": "chic",
+    "rating":"4.0",
+    "website":"https://www.littlehen.com/"
+},
+
+{
+    "name":"Sugar",
+    "location":"788 Brickell Plaza #40, Miami, FL 33131",
+    "vibe":"chic",
+    "rating":"3.7",
+    "website":"https://www.easthotels.com/en/miami/restaurants-and-bars/sugar/"
 }
+
+
+]
